@@ -260,7 +260,7 @@ img{
     bottom: .5rem;
     font-size: 1.5rem;
     cursor: pointer;
-    color: var(--first-color);
+    color: #fff;
 }
 
 .nav__close:hover{
